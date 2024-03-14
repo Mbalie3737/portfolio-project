@@ -1,3 +1,9 @@
-.Container {
-    background-color: antiquewhite;
+.hero-container {
+    background-color: #e3f6f5;
+    font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.button {
+    background-color: #79c2d0;
 }
