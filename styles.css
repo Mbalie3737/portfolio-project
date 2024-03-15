@@ -14,3 +14,13 @@
   'GRAD' 0,
   'opsz' 24
 }
+.about-container {
+    background-color: #e3f6f5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+}
+.header {
+    font-size: 20px;
+}
